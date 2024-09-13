@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aJuebaTsbPZSA1VtoQhfTWaxeIMGC0OFQr2RLDx1LZA=",
+  "Source": "SMSSMSystem.Api",
+  "BasePath": "_content/SMSSMSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

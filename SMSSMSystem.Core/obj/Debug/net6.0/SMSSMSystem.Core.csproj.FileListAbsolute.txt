@@ -1,0 +1,14 @@
+E:\prn231\sep490_g85\SMSSMSystem.Core\bin\Debug\net6.0\SMSSMSystem.Core.deps.json
+E:\prn231\sep490_g85\SMSSMSystem.Core\bin\Debug\net6.0\SMSSMSystem.Core.runtimeconfig.json
+E:\prn231\sep490_g85\SMSSMSystem.Core\bin\Debug\net6.0\SMSSMSystem.Core.dll
+E:\prn231\sep490_g85\SMSSMSystem.Core\bin\Debug\net6.0\SMSSMSystem.Core.pdb
+E:\prn231\sep490_g85\SMSSMSystem.Core\obj\Debug\net6.0\SMSSMSystem.Core.csproj.AssemblyReference.cache
+E:\prn231\sep490_g85\SMSSMSystem.Core\obj\Debug\net6.0\SMSSMSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\prn231\sep490_g85\SMSSMSystem.Core\obj\Debug\net6.0\SMSSMSystem.Core.AssemblyInfoInputs.cache
+E:\prn231\sep490_g85\SMSSMSystem.Core\obj\Debug\net6.0\SMSSMSystem.Core.AssemblyInfo.cs
+E:\prn231\sep490_g85\SMSSMSystem.Core\obj\Debug\net6.0\SMSSMSystem.Core.csproj.CoreCompileInputs.cache
+E:\prn231\sep490_g85\SMSSMSystem.Core\obj\Debug\net6.0\SMSSMSystem.Core.dll
+E:\prn231\sep490_g85\SMSSMSystem.Core\obj\Debug\net6.0\refint\SMSSMSystem.Core.dll
+E:\prn231\sep490_g85\SMSSMSystem.Core\obj\Debug\net6.0\SMSSMSystem.Core.pdb
+E:\prn231\sep490_g85\SMSSMSystem.Core\obj\Debug\net6.0\SMSSMSystem.Core.genruntimeconfig.cache
+E:\prn231\sep490_g85\SMSSMSystem.Core\obj\Debug\net6.0\ref\SMSSMSystem.Core.dll
