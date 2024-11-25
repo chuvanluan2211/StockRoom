@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LiSKPs/RWc18Qdqh+66Gbfkpeti96AWzrgCCItVAmTb4yZaRWRIRmytoOq3ppxPJ5ewQWOO10xAYQWS/BV4qKw==",
+  "dgSpecHash": "hnzEOZVU7ZE=",
   "success": true,
-  "projectFilePath": "E:\\prn231\\sep490_g85\\SMSSMSystem.Core\\SMSSMSystem.Core.csproj",
+  "projectFilePath": "E:\\Desktop\\StockRoom\\SMSSMSystem.Core\\SMSSMSystem.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laptop 2019\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\laptop 2019\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.22\\microsoft.aspnetcore.cryptography.internal.6.0.22.nupkg.sha512",
