@@ -16,7 +16,7 @@ namespace SMSSMSystem.Core.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("server=.\\SQLEXPRESS;database=StockRoom;uid=sa;pwd=123456;TrustServerCertificate=True;Trusted_Connection=True;MultipleActiveResultSets=true");
+                optionsBuilder.UseSqlServer("server=LAPTOPIKLKV77B\\SQLEXPRESS;database=StockRoom;uid=sa;pwd=123456;TrustServerCertificate=True;Trusted_Connection=True;MultipleActiveResultSets=true");
             }
         }
 
